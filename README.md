@@ -1,2 +1,3 @@
 # playlister
-a web application built on Flask that collects tracks from the top 50 charts and curates playlists using machine learning dimensional reduction and clustering algorithms
+A web application built to collect the top 150 songs on Spotify's charts (UK, US, Global) and curate playlists for the user using dimensional reduction and clustering through machine learning
+
