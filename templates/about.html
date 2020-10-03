@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="about">
+    <h1>about</h1>
+    The app uses machine learning dimensional reduction and a noise-omitting clustering
+    algorithm to provide users with playlists of similar taste
+    <h2>playlists used:</h2>
+    {% for (name, v) in charts.items() %}
+      <p><b>{{ name }}</b>, user: {{ v[0] }}</p>
+</div>
+    {% endfor %}
+{% endblock content%}
