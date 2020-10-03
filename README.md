@@ -7,7 +7,6 @@ A web application built to collect the top 150 songs on Spotify's charts (UK, US
 - Spotify Web API thru spotipy
 - Pandas
 - NumPy
-- BeautifulSoup
 
 ### ML:
 - scikit-learn (DBSCAN, PCA)
@@ -15,3 +14,7 @@ A web application built to collect the top 150 songs on Spotify's charts (UK, US
 ### Visualization:
 - seaborn
 - matplotlib
+
+### Web App:
+- flask
+- mysql
