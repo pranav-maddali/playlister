@@ -4,9 +4,9 @@ A web application built to collect the top 150 songs on Spotify's charts (UK, US
 ## Tools Used:
 
 ### Data Mining/Cleaning/Processing:
-- Spotify Web API thru spotipy
-- Pandas
-- NumPy
+- spotify web API thru spotipy
+- pandas
+- numpy
 
 ### ML:
 - scikit-learn (DBSCAN, PCA)
